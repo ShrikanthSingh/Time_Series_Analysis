@@ -5,9 +5,9 @@ https://data.humdata.org/dataset/daily-estimated-arrivals-through-western-balkan
 20160921-AnalysisofEstimatedArrivals.xlsx
 
 The notebook has 2 ipynb files
-# 1. Pre_processing.ipynb - This file contains the coding and results for stationarity check, time series decomposition, making the time series stationary and exporting the count of refugees with eliminated trend and seasonality.
+ 1. Pre_processing.ipynb - This file contains the coding and results for stationarity check, time series decomposition, making the time series stationary and exporting the count of refugees with eliminated trend and seasonality.
 
-# 2. Forecating_model.ipynb - This file contains the coding and results of various forecasting models like AR, ARMA, ARIMA, SARIMA along with it the evaluation results is also available for each model. Finally a short optimisation phase is added which determines the best parameters for the ARIMA model. One can use the same for determining the best parameters for other models by simply changing the calling function.
+ 2. Forecating_model.ipynb - This file contains the coding and results of various forecasting models like AR, ARMA, ARIMA, SARIMA along with it the evaluation results is also available for each model. Finally a short optimisation phase is added which determines the best parameters for the ARIMA model. One can use the same for determining the best parameters for other models by simply changing the calling function.
 
 Note : Since the github has an issue of rendering ipynb files I would recommend you to clone the repo and then load it in your notebook. Else follow the link :
 https://nbviewer.jupyter.org
